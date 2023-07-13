@@ -1,5 +1,13 @@
 # Base64IMG
 
-This is a simple proyect that I made just to try some tech, check how builds work on Nextjs and check the Vercel hosting.
+This is a simple proyect that I made just to try the FileReader API, check how builds work on Nextjs and the Vercel hosting.
 
-[Click Here](https://base64-img-7ka9.vercel.app) to see it live!
+[Click Here](https://base64-img-mu.vercel.app)https://base64-img-mu.vercel.app) to see it live!
+
+Dependencies:
+
+- TypeScript
+- NextJS (using the page router, scafolded with  `create-t3-stack`)
+- TailwindCSS
+- Jotai
+- react-hot-toast
