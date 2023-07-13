@@ -2,7 +2,7 @@
 
 This is a simple proyect that I made just to try the FileReader API, check how builds work on Nextjs and the Vercel hosting.
 
-[Click Here](https://base64-img-mu.vercel.app)https://base64-img-mu.vercel.app) to see it live!
+[Click Here](https://base64-img-mu.vercel.app) to see it live!
 
 Dependencies:
 
